@@ -1,3 +1,3 @@
 # modis-download
 
-This library is for download MODIS products.
+This library is for downloading MODIS products.
